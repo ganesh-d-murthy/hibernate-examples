@@ -1,7 +1,9 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
 
-sourceCompatibility = 1.5
+// Examples for Hibernate
+
+sourceCompatibility = 1.7
 version = '1.0'
 jar {
     manifest {
