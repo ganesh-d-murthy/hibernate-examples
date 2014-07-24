@@ -4,6 +4,8 @@ apply plugin: 'eclipse'
 // Examples for Hibernate
 
 sourceCompatibility = 1.7
+archiveName = 'hib.war'
+
 version = '1.0'
 jar {
     manifest {
